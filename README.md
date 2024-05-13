@@ -1,2 +1,2 @@
 # Thesis
-Programs developed as part as my Master's Thesis
+Programs developed as part of my Master's Thesis

@@ -1,2 +1,2 @@
 # Thesis
-Programas desarrollados como parte de mi Tesis de maestría
+Programs developed as part as my Master's Thesis
